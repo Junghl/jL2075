@@ -1,1 +1,1 @@
-My embarrsasing homepage advancing in progress
+My first homepage working in progress
